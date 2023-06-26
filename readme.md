@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Coffdel</h1>
+  <h1>Caffedel</h1>
   <br />
   <a href="#getting-started"><strong>Getting Started »</strong></a>
   <br />
